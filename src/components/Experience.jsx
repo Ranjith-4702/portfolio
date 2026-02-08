@@ -17,7 +17,7 @@ const Experience = () => {
     },
     {
       id: 2,
-      role: 'Web Intern',
+      role: 'Front-end Developer (Intern)',
       company: 'Naalvar Solutions',
       period: 'Nov 2024 – Feb 2025',
       desc: [
